@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const API_KEY = 'AIzaSyACUClXDftmaracRcV_LXsxVxPSUUoCuDY'; // Your API key
+    const API_KEY = ''; // Your API key
 
     const chatContainer = document.querySelector('.chat-widget');
     const chatMessages = document.getElementById('chat-messages');
