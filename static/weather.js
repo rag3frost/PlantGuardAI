@@ -1,4 +1,4 @@
-const API_KEY = 'ee7996e467335bc22c6deb2f829e7384';
+const API_KEY = ''; //Your Open Weather API key
 
 function updateWeatherIcon(weatherCondition) {
     const iconMap = {
